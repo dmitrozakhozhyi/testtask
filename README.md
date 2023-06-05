@@ -1,7 +1,7 @@
 ## Start using for a new project
 
-3. Run `npm i` to install dependencies
-4. Run one of the following commands, depending on intent:
+1. Run `npm i` to install dependencies
+2. Run one of the following commands, depending on intent:
 
 ### Production Build
 
